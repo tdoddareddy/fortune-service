@@ -27,8 +27,6 @@
     <spring-cloud-contract.version>2.1.0.RELEASE</spring-cloud-contract.version>
     <distribution.management.release.id>bintray-tdoddareddy-maven-repo</distribution.management.release.id>
     <distribution.management.release.url>https://api.bintray.com/maven/tdoddareddy/maven-repo/fortune-service</distribution.management.release.url>
-    <repo.with.binaries></repo.with.binaries>
-    <latest.production.version></latest.production.version>
   </properties>
 
 
