@@ -195,12 +195,12 @@
             <version>${spring-cloud-contract.version}</version>
             <extensions>true</extensions>
             <configuration>
-              <contractsRepositoryUrl>${repo.with.binaries}</contractsRepositoryUrl>
+              <contractsRepositoryUrl>https://</contractsRepositoryUrl>
               <contractDependency>
                 <groupId>${project.groupId}</groupId>
                 <artifactId>${project.artifactId}</artifactId>
                 <classifier>stubs</classifier>
-                <version>${latest.production.version}</version>
+                <version>https://dl.bintray.com/maven/tdoddareddy/maven-repo/</version>
               </contractDependency>
               <contractsPath>/</contractsPath>
               <baseClassForTests>io.pivotal.fortune.BaseClass</baseClassForTests>
