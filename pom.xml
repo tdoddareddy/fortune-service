@@ -195,7 +195,7 @@
             <version>${spring-cloud-contract.version}</version>
             <extensions>true</extensions>
             <configuration>
-              <contractsRepositoryUrl>https://dl.bintray.com/tdoddareddy/maven-repo/</contractsRepositoryUrl>
+              <contractsRepositoryUrl>https://dl.bintray.com/tdoddareddy/maven-repo/io/pivotal/fortune-service/</contractsRepositoryUrl>
               <contractDependency>
                 <groupId>${project.groupId}</groupId>
                 <artifactId>${project.artifactId}</artifactId>
