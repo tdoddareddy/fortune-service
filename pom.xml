@@ -200,7 +200,7 @@
                 <groupId>${project.groupId}</groupId>
                 <artifactId>${project.artifactId}</artifactId>
                 <classifier>stubs</classifier>
-                <version>https://dl.bintray.com/maven/tdoddareddy/maven-repo/</version>
+                <version>https://dl.bintray.com/tdoddareddy/maven-repo/</version>
               </contractDependency>
               <contractsPath>/</contractsPath>
               <baseClassForTests>io.pivotal.fortune.BaseClass</baseClassForTests>
